@@ -1,0 +1,7 @@
+D:\XAMPP\htdocs\asp\winamp\NumberGuesserFredy\NumberGuesserFredy\obj\Debug\NumberGuesserFredy.csprojAssemblyReference.cache
+D:\XAMPP\htdocs\asp\winamp\NumberGuesserFredy\NumberGuesserFredy\obj\Debug\NumberGuesserFredy.csproj.CoreCompileInputs.cache
+D:\XAMPP\htdocs\asp\winamp\NumberGuesserFredy\NumberGuesserFredy\bin\Debug\NumberGuesserFredy.exe.config
+D:\XAMPP\htdocs\asp\winamp\NumberGuesserFredy\NumberGuesserFredy\bin\Debug\NumberGuesserFredy.exe
+D:\XAMPP\htdocs\asp\winamp\NumberGuesserFredy\NumberGuesserFredy\bin\Debug\NumberGuesserFredy.pdb
+D:\XAMPP\htdocs\asp\winamp\NumberGuesserFredy\NumberGuesserFredy\obj\Debug\NumberGuesserFredy.exe
+D:\XAMPP\htdocs\asp\winamp\NumberGuesserFredy\NumberGuesserFredy\obj\Debug\NumberGuesserFredy.pdb
